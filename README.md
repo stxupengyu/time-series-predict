@@ -11,5 +11,5 @@ For the convenience of presentation, in addition to the .R file, I also provide 
 ****
 ![Image text](https://github.com/stxupengyu/time-series-predict/blob/master/img-folder/3.png)  
 ![Image text](https://github.com/stxupengyu/time-series-predict/blob/master/img-folder/5.png)  
-![Image text](https://github.com/stxupengyu/Ptime-series-predict/blob/master/img-folder/7.png)  
+![Image text](https://github.com/stxupengyu/time-series-predict/blob/master/img-folder/7.png)  
 ****
